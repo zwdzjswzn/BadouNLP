@@ -30,3 +30,4 @@ NumPy版本: 1.26.4
 (py312) C:\Windows\System32>python -c "import pandas; print(f'\nPandas版本: {pandas.__version__}')"
 
 Pandas版本: 2.2.2'''
+
